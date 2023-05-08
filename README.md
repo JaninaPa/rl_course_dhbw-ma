@@ -6,7 +6,7 @@ To install docker, I recommend a web search for "installing docker on \<your os 
 
 ## Running the code
   0. Clone this repo:  
-  `git clone --depth 1 https://github.com/mimoralea/gdrl.git && cd gdrl`
+  `git clone --depth 1 https://github.com/JaninaPa/rl_course_dhbw-ma.git && cd gdrl`
   1. Pull the gdrl image with:  
   `docker pull mimoralea/gdrl:v0.14`
   2. Spin up a container:
