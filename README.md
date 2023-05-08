@@ -27,17 +27,13 @@ https://www.manning.com/books/grokking-deep-reinforcement-learning
 
   1. [Introduction to deep reinforcement learning](#1-introduction-to-deep-reinforcement-learning)
   2. [Mathematical foundation](#2-mathematical-foundations-of-reinforcement-learning)
-  3. [Balancing immediate and long-term goals](#3-balancing-immediate-and-long-term-goals)
-  4. [Balancing the gathering and utilization of information](#4-balancing-the-gathering-and-utilization-of-information)
-  5. [Evaluating agents' behaviors](#5-evaluating-agents-behaviors)
-  6. [Improving agents' behaviors](#6-improving-agents-behaviors)
-  7. [Achieving goals more effectively and efficiently](#7-achieving-goals-more-effectively-and-efficiently)
-  8. [Introduction to value-based deep reinforcement learning](#8-introduction-to-value-based-deep-reinforcement-learning)
-  9. [More stable value-based methods](#9-more-stable-value-based-methods)
-  10. [Sample-efficient value-based methods](#10-sample-efficient-value-based-methods)
-  11. [Policy-gradient and actor-critic methods](#11-policy-gradient-and-actor-critic-methods)
-  12. [Advanced actor-critic methods](#12-advanced-actor-critic-methods)
-  13. [Towards artificial general intelligence](#13-towards-artificial-general-intelligence)
+  3. [Exploration vs. exploitation](#3-exploration-vs.-exploitation)
+  4. [Policy evaluation](#4-policy-evaluation)
+  5. [Policy improvement](#5-policy-improvement)
+  6. [Optimization and model-based methods](#6-optimization-and-model-based-reinforcement-learning)
+  7. [Value-based deep reinforcement learning](#7-value-based-deep-reinforcement-learning)
+  8. [Policy-gradient and actor-critic methods](#8-policy-gradient-and-actor-critic-reinforcement-learning)
+  9. [Course reflection](#-course-reflection)
 
 ### Detailed table of content
 
@@ -60,7 +56,7 @@ https://www.manning.com/books/grokking-deep-reinforcement-learning
     - Policy Iteration
     - Value Iteration
    
-#### 3. Exploration vs. Exploitation
+#### 3. Exploration vs. exploitation
 - \([Notebook](/notebooks/chapter_04/chapter-04.ipynb)\)
   - Implementations of exploration strategies for bandit problems:
     - Random
@@ -73,7 +69,7 @@ https://www.manning.com/books/grokking-deep-reinforcement-learning
     - Upper Confidence Bound
     - Bayesian
     
-#### 4. Policy Evaluation
+#### 4. Policy evaluation
 - \([Notebook](/notebooks/chapter_05/chapter-05.ipynb)\)
   - Implementation of algorithms that solve the prediction problem (policy estimation):
     - On-policy first-visit Monte-Carlo prediction
@@ -81,7 +77,7 @@ https://www.manning.com/books/grokking-deep-reinforcement-learning
     - Temporal-Difference prediction (TD)
     - n-step Temporal-Difference prediction (n-step TD)
     - TD(λ)
-#### 5. Policy Improvement
+#### 5. Policy improvement
 - \([Notebook](/notebooks/chapter_06/chapter-06.ipynb)\)
   - Implementation of algorithms that solve the control problem (policy improvement):
     - On-policy first-visit Monte-Carlo control
@@ -89,7 +85,7 @@ https://www.manning.com/books/grokking-deep-reinforcement-learning
     - On-policy TD control: SARSA
     - Off-policy TD control: Q-Learning
     - Double Q-Learning
-#### 6. Optimization and model-based AI
+#### 6. Optimization and model-based reinforcement learning
 - \([Notebook](/notebooks/chapter_07/chapter-07.ipynb)\)
   - Implementation of more effective and efficient reinforcement learning algorithms:
     - SARSA(λ) with replacing traces
