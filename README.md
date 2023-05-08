@@ -23,6 +23,11 @@ To install docker, I recommend a web search for "installing docker on \<your os 
 
 https://www.manning.com/books/grokking-deep-reinforcement-learning
 
+### Helpful package documentations
+
+- OpenAI Gym: https://www.gymlibrary.dev/ (NOTE: This code uses an older version of the OpenAI Gym framework. The recent version is documented under https://gymnasium.farama.org/)
+- PyTorch: https://pytorch.org/docs/stable/index.html 
+
 ### Table of content
 
   1. [Introduction to deep reinforcement learning](#1-introduction-to-deep-reinforcement-learning)
