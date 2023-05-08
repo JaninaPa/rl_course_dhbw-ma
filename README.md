@@ -27,7 +27,7 @@ https://www.manning.com/books/grokking-deep-reinforcement-learning
 
   1. [Introduction to deep reinforcement learning](#1-introduction-to-deep-reinforcement-learning)
   2. [Mathematical foundation](#2-mathematical-foundations-of-reinforcement-learning)
-  3. [Exploration vs. exploitation](#3-exploration-vs.-exploitation)
+  3. [Exploration vs. exploitation](#3-exploration-vs-exploitation)
   4. [Policy evaluation](#4-policy-evaluation)
   5. [Policy improvement](#5-policy-improvement)
   6. [Optimization and model-based methods](#6-optimization-and-model-based-reinforcement-learning)
