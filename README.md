@@ -25,8 +25,8 @@ https://www.manning.com/books/grokking-deep-reinforcement-learning
 
 ### Helpful package documentations
 
-https://www.gymlibrary.dev/ (NOTE: This code uses an older version of the OpenAI Gym framework. The recent version is documented under https://gymnasium.farama.org/)
-https://pytorch.org/docs/stable/index.html 
+- OpenAI Gym: https://www.gymlibrary.dev/ (NOTE: This code uses an older version of the OpenAI Gym framework. The recent version is documented under https://gymnasium.farama.org/)
+- PyTorch: https://pytorch.org/docs/stable/index.html 
 
 ### Table of content
 
