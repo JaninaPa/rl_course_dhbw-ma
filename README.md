@@ -1,4 +1,4 @@
-# Grokking Deep Reinforcement Learning
+# Aktuelle Data Science Entwicklungen: Reinforcement Learning
 
 **Note:** At the moment, only running the code from the [docker](https://github.com/docker/docker-ce) container (below) is supported. Docker allows for creating a single environment that is more likely to work on all systems. Basically, I install and configure all packages for you, except docker itself, and you just run the code on a tested environment. 
 
