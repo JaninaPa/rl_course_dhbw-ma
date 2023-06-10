@@ -32,12 +32,12 @@ Du musst das Rad nicht neu erfinden - Im alltäglichen Arbeitsleben könntest Du
 ✒️ Bearbeite die Aufgaben als Fließtext auf **maximal drei Seiten** (ohne Abbildungen) und Verwende Schrift und Schriftgröße äquivalent zu **Times New Roman 12pt**.\
 📑 Der Projektbericht soll der **äußeren Form** einer wissenschaftlichen Arbeit folgen (Deckblatt, Inhaltsverzeichnis, Abbildungsverzeichnis und Literaturverzeichnis).\
 📤 Dokumentiere Deinen Code in einem dedizierten **Git-Repository** und packe den Link in den Bericht. Stelle sicher, dass das Repository **öffentlich** ist.\
-📄 Abgabeformat ist eine **.pdf-Datei**.\
+📄 Abgabeformat ist eine **.pdf-Datei**.
 
 ### a): Wahl und Beschreibung der RL Umgebung
 
 💡 Führe **kurz** mit einer **nachvollziehbaren** und **logischen** Begründung für Deine Wahl des Anwendungsgebietes und der Umgebung ein. Gehe zum Beispiel auf die Relevanz des Themas (z.B. Autonomes Fahren im heutigen Kontext) , Usability der Umgebung (z.B. easy to use, schnell einzurichten,..) oder Deine persönliche Verbindung zur Thematik (z.B. Autonomes Fahren bei Automobilkonzernen, Du zockst gerne,...) ein.\
-📖 Beschreibe die Umgebung mit den gelernten **Fachbegriffen** und **beziehe Dich auf Konzepte** aus der Vorlesung.\
+📖 Beschreibe die Umgebung mit den gelernten **Fachbegriffen** und **beziehe Dich auf Konzepte** aus der Vorlesung.
 
 ### b): Entwicklung des RL-Agenten
 
