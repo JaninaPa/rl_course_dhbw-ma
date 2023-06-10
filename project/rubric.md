@@ -16,7 +16,7 @@ Du musst das Rad nicht neu erfinden - Im alltäglichen Arbeitsleben könntest Du
 
 ✔️ Hierbei geht es um die **korrekte** Wiedergabe von Vorlesungsinhalten. Keine Quellenangabe nötig. \
 📖 Verwende die Fachtermini, die Du in der Vorlesung kennengelernt hast. \
-🎨 Achte auf eine übersichtliche und ansprechende Darstellung. Werde gerne etwas kreativ. ☺️ \
+🎨 Achte auf eine übersichtliche und ansprechende Darstellung. Werde gerne etwas kreativ. \
 📄 Abgabeformat is vorzugsweise eine .pdf-Datei, .docx oder .pptx ebenfalls möglich.  
 
 ### Aufgabe 2️⃣: Erarbeitung und Präsentation neuer Konzepte
