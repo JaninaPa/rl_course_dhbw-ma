@@ -30,7 +30,7 @@ Bitte bereite eine kurze Präsentation von 5 bis 10 min / 2 bis 4 Folien zu Dein
 📄 Abgabeformat ist **.pptx-Datei** und ggf. ein Video im **.mp4-Format**.
 
 ### Aufgabe 3️⃣: Hands-On Projekt
-3.	In der Vorlesung hast Du die grundlegenden Konzepte verschiedener RL-Agenten kennengelernt und ihre Anwendung in populären Umgebungen gesehen. Nun sollst Du das gelernte Wissen als Transferleistung auf andere Problemstellungen übertragen. 
+In der Vorlesung hast Du die grundlegenden Konzepte verschiedener RL-Agenten kennengelernt und ihre Anwendung in populären Umgebungen gesehen. Nun sollst Du das gelernte Wissen als Transferleistung auf andere Problemstellungen übertragen. 
 Im Git-Repository des Kurses findest Du den Ordner project mit vier Markdown-Dateien, die jeweils die kurze Beschreibung eines Anwendungsgebietes beinhalten. Mache dich mit damit vertraut und wähle ein Thema für Dein Hands-On-Projekt. \
 
 ✒️ Bearbeite die Aufgaben als Fließtext auf **maximal drei Seiten** (ohne Abbildungen) und Verwende Schrift und Schriftgröße äquivalent zu **Times New Roman 12pt**.\
