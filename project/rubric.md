@@ -39,8 +39,8 @@ Im Git-Repository des Kurses findest Du den Ordner project mit vier Markdown-Dat
 📄 Abgabeformat ist eine **.pdf-Datei**.
 
 ### a): Wahl und Beschreibung der RL Umgebung
-Suche Dir eine Umgebung für Deinen RL-Agenten aus. Dafür kannst Du auf die Beispiele in der MD-Datei zurückgreifen oder eigene Recherchen heranziehen. Beschreibe die gewählte Umgebung hinsichtlich der Aufgaben-/ bzw. Problemstellung und Eigenschaften. Verwende dabei die gelernten Fachbegriffe und Konzepte aus der Vorlesung.\
-💡 Führe **kurz** mit einer **nachvollziehbaren** und **logischen** Begründung für Deine Wahl des Anwendungsgebietes und der Umgebung ein. Gehe zum Beispiel auf die Relevanz des Themas (z.B. Autonomes Fahren im heutigen Kontext) , Usability der Umgebung (z.B. easy to use, schnell einzurichten,..) oder Deine persönliche Verbindung zur Thematik (z.B. Autonomes Fahren bei Automobilkonzernen, Du zockst gerne,...) ein.\
+Suche Dir eine Umgebung für Deinen RL-Agenten aus. Dafür kannst Du auf die Beispiele in der MD-Datei zurückgreifen oder eigene Recherchen heranziehen. Beschreibe die gewählte Umgebung hinsichtlich der Aufgaben-/ bzw. Problemstellung und Eigenschaften. Verwende dabei die gelernten Fachbegriffe und Konzepte aus der Vorlesung. \
+💡 Führe **kurz** mit einer **nachvollziehbaren** und **logischen** Begründung für Deine Wahl des Anwendungsgebietes und der Umgebung ein. Gehe zum Beispiel auf die Relevanz des Themas (z.B. Autonomes Fahren im heutigen Kontext) , Usability der Umgebung (z.B. easy to use, schnell einzurichten,..) oder Deine persönliche Verbindung zur Thematik (z.B. Autonomes Fahren bei Automobilkonzernen, Du zockst gerne,...) ein. \
 📖 Beschreibe die Umgebung mit den gelernten **Fachbegriffen** und **beziehe Dich auf Konzepte** aus der Vorlesung.
 
 ### b): Entwicklung des RL-Agenten
@@ -53,6 +53,6 @@ Entwickle und optimiere einen RL-Agenten für diese Umgebung in Python, die Gest
 
 ### c): Bewertung und Visualisierung
 Bewerte Ergebnisse und Vorgehensweise mithilfe geeigneter Visualisierung. \
-🖼️ Stelle Trainingsverlauf und Ergebnisse mit **geeigneten** und **verständlichen** Visualisierungen dar.\
+🖼️ Stelle Trainingsverlauf und Ergebnisse mit **geeigneten** und **verständlichen** Visualisierungen dar. \
 ⚡ Reflektiere Deine Ergebnisse und Entscheidungen **kritisch**: So kannst Du auch mit einer schlechten Performance eine gute Bewertung erhalten. Mögliche Fragen: Wie ist die Performance des Agenten und wie würde der Einsatz in der Realität aussehen? Welche alternativen Ansätze oder ggf. Benchmarks gibt es? Was ist aktueller state-of-the-art?\
 ✨ Gehe auch auf Deine **Learnings** und **Herausforderungen** während der Bearbeitung ein. 
