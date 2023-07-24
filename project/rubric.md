@@ -44,7 +44,7 @@ Im Git-Repository des Kurses findest Du den Ordner project mit vier Markdown-Dat
 ### a): Wahl und Beschreibung der RL Umgebung (5 Punkte)
 Suche Dir eine Umgebung für Deinen RL-Agenten aus. Dafür kannst Du auf die Beispiele in der MD-Datei zurückgreifen oder eigene Recherchen heranziehen. Beschreibe die gewählte Umgebung hinsichtlich der Aufgaben-/ bzw. Problemstellung und Eigenschaften. Verwende dabei die gelernten Fachbegriffe und Konzepte aus der Vorlesung. \
 💡 Führe **kurz** mit einer **nachvollziehbaren** und **logischen** Begründung für Deine Wahl des Anwendungsgebietes und der Umgebung ein. Gehe zum Beispiel auf die Relevanz des Themas (z.B. Autonomes Fahren im heutigen Kontext) , Usability der Umgebung (z.B. easy to use, schnell einzurichten,..) oder Deine persönliche Verbindung zur Thematik (z.B. Autonomes Fahren bei Automobilkonzernen, Du zockst gerne,...) ein. \
-📖 Beschreibe die Umgebung mit den gelernten **Fachbegriffen** und **beziehe Dich auf Konzepte** aus der Vorlesung.
+📖 Beschreibe die Umgebung mit den gelernten **Fachbegriffen** und **beziehe Dich auf Konzepte** aus der Vorlesung.\
 ⚖️ Bei Gruppenarbeit fließt die **Komplexität** und **Originalität** der Umgebung bzw. Problemstellung mit in die Bewertung ein.
 
 ### b): Entwicklung des RL-Agenten (20 Punkte)
@@ -53,12 +53,12 @@ Entwickle und optimiere einen RL-Agenten für diese Umgebung in Python, die Gest
 🤖 Der finale RL-Agent muss nicht perfekt sein, er sollte sich aber im Laufe des Trainings jedoch **verbessern** und eine **akzeptable Performance** aufweisen.\
 🚿 Clean code: Gehe sicher, dass Dein Code **klar**, **verständlich** und **wartbar** ist, sowie den **pep8-Standard** erfüllt.\
 💡 Mache Deine Entscheidungen auch hier transparent durch eine **vollständige**, **nachvollziehbare** und **logische** Ausführung Deiner Vorgehensweise mit **Bezug auf theoretische Konzepte**.\
-📚 Nochmal zur Betonung: Du darfst Code **wiederverwenden**, musst dies aber **kennzeichnen**! Es gibt keinen Abzug für korrekt gekennzeichneten Code aus externen Quellen.
+📚 Nochmal zur Betonung: Du darfst Code **wiederverwenden**, musst dies aber **kennzeichnen**! Es gibt keinen Abzug für korrekt gekennzeichneten Code aus externen Quellen.\
 ⚖️ Bei Gruppenarbeit sollte zumindest **eine Optimierungstechnik** für den finalen RL-Agenten angewandt worden sein, wie z.B. ein recherchiertes oder gelerntes Konzept aus der Vorlesung oder mit Hyperparametertuning. Auch das gehört in den Projektbericht. Zusätzlich muss die ReadMe.md eine **detaillierte Übersicht** enthalten, wie die Aufgaben auf Gruppenmitglieder verteilt wurden. 
 
 ### c): Bewertung und Visualisierung (10 Punkte)
 Bewerte Ergebnisse und Vorgehensweise mithilfe geeigneter Visualisierung. \
 🖼️ Stelle Trainingsverlauf und Ergebnisse mit **geeigneten** und **verständlichen** Visualisierungen dar. \
 ⚡ Reflektiere Deine Ergebnisse und Entscheidungen **kritisch**: So kannst Du auch mit einer schlechten Performance eine gute Bewertung erhalten. Mögliche Fragen: Wie ist die Performance des Agenten und wie würde der Einsatz in der Realität aussehen? Welche alternativen Ansätze oder ggf. Benchmarks gibt es? Was ist aktueller state-of-the-art?\
-Bei Gruppenarbeit: Was hat meine Optimierungstechnikg gebracht und welche möglichen Optimierungstechniken gibt es noch?
+Bei Gruppenarbeit: Was hat meine Optimierungstechnikg gebracht und welche möglichen Optimierungstechniken gibt es noch?\
 ✨ Gehe auch auf Deine **Learnings** und **Herausforderungen** während der Bearbeitung ein. 
