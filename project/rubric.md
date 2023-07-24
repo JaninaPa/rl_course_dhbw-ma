@@ -32,7 +32,7 @@ Bitte bereite eine kurze Präsentation von 5 bis 10 min / 2 bis 4 Folien zu Dein
 
 ### Aufgabe 3️⃣: Hands-On Projekt (35 Punkte)
 In der Vorlesung hast Du die grundlegenden Konzepte verschiedener RL-Agenten kennengelernt und ihre Anwendung in populären Umgebungen gesehen. Nun sollst Du das gelernte Wissen als Transferleistung auf andere Problemstellungen übertragen. Die Aufgabe kann entweder **alleine oder in Zweiergruppen** bearbeitet werden.
-Im Git-Repository des Kurses findest Du den Ordner project mit vier Markdown-Dateien, die jeweils die kurze Beschreibung eines Anwendungsgebietes beinhalten. Mache Dich mit damit vertraut und wähle ein Thema für Dein Hands-On-Projekt. \
+Im Git-Repository des Kurses findest Du den Ordner project mit vier Markdown-Dateien, die jeweils die kurze Beschreibung eines Anwendungsgebietes beinhalten. Mache Dich mit damit vertraut und wähle ein Thema für Dein Hands-On-Projekt. 
 
 ✒️ Bearbeite die Aufgaben als Fließtext auf **maximal drei Seiten** (ohne Abbildungen) und Verwende Schrift und Schriftgröße äquivalent zu **Times New Roman 12pt**.\
 📑 Der Projektbericht soll der **äußeren Form** einer wissenschaftlichen Arbeit folgen (Deckblatt, Inhaltsverzeichnis, Abbildungsverzeichnis und Literaturverzeichnis).\
