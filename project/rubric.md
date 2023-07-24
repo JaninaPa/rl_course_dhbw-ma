@@ -37,7 +37,7 @@ Im Git-Repository des Kurses findest Du den Ordner project mit vier Markdown-Dat
 ✒️ Bearbeite die Aufgaben als Fließtext auf **maximal drei Seiten** (ohne Abbildungen) und Verwende Schrift und Schriftgröße äquivalent zu **Times New Roman 12pt**.\
 📑 Der Projektbericht soll der **äußeren Form** einer wissenschaftlichen Arbeit folgen (Deckblatt, Inhaltsverzeichnis, Abbildungsverzeichnis und Literaturverzeichnis).\
 📤 Dokumentiere Deinen Code in einem dedizierten **Git-Repository** und packe den Link in den Bericht. Stelle sicher, dass das Repository **öffentlich** ist.\
-📄 Abgabeformat ist eine **.pdf-Datei**.
+📄 Abgabeformat ist eine **.pdf-Datei**.\
 ⚖️ Bei einer Zweiergruppe reichen **beide** den Projektbericht über Moodle ein. Um Fairness zu gewährleisten, werden Gruppen im Vergleich zur Einzelarbeit hinsichtlich der unten stehenden Kriterien strenger bewertet.
 
 
@@ -48,7 +48,7 @@ Suche Dir eine Umgebung für Deinen RL-Agenten aus. Dafür kannst Du auf die Bei
 ⚖️ Bei Gruppenarbeit fließt die **Komplexität** und **Originalität** der Umgebung bzw. Problemstellung mit in die Bewertung ein.
 
 ### b): Entwicklung des RL-Agenten (20 Punkte)
-Entwickle und optimiere einen RL-Agenten für diese Umgebung in Python, die Gestaltung ist dabei ganz Dir überlassen. Beschreibe Deine Vorgehensweise u.a. hinsichtlich Wahl der Architektur, Training und Optimierung. Erkläre angewandte Konzepte und begründe Deine Entscheidungen.\ 
+Entwickle und optimiere einen RL-Agenten für diese Umgebung in Python, die Gestaltung ist dabei ganz Dir überlassen. Beschreibe Deine Vorgehensweise u.a. hinsichtlich Wahl der Architektur, Training und Optimierung. Erkläre angewandte Konzepte und begründe Deine Entscheidungen.\
 📓 Entwickle Deinen RL-Agenten in einem **Jupyter Notebook** (ggf. in Google Colab). **Dokumentiere** mithilfe von inline-comments und/oder Markdown-Cells, sowie einer **ReadMe.md** und **requirements.txt** zur Ausführung des Codes.  **Führe den Code vor Commit einmal komplett aus**, damit die Outputs der einzelnen Zellen im Notebook auf Github sichtbar sind. \
 🤖 Der finale RL-Agent muss nicht perfekt sein, er sollte sich aber im Laufe des Trainings jedoch **verbessern** und eine **akzeptable Performance** aufweisen.\
 🚿 Clean code: Gehe sicher, dass Dein Code **klar**, **verständlich** und **wartbar** ist, sowie den **pep8-Standard** erfüllt.\
