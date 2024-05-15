@@ -32,7 +32,7 @@ Bitte bereite eine kurze Präsentation von 5 bis 10 min / 2 bis 4 Folien zu Dein
 
 ### Aufgabe 3️⃣: Hands-On Projekt (35 Punkte)
 In der Vorlesung hast Du die grundlegenden Konzepte verschiedener RL-Agenten kennengelernt und ihre Anwendung in populären Umgebungen gesehen. Nun sollst Du das gelernte Wissen als Transferleistung auf andere Problemstellungen übertragen. Die Aufgabe kann entweder **alleine oder in Zweiergruppen** bearbeitet werden.
-Im Git-Repository des Kurses findest Du den Ordner project mit vier Markdown-Dateien, die jeweils die kurze Beschreibung eines Anwendungsgebietes beinhalten. Mache Dich mit damit vertraut und wähle ein Thema für Dein Hands-On-Projekt. 
+Wähle ein Themengebiet für Dein Hands-On-Projekt (z.B. Trading, Autonomes Fahren, Gaming,..) und informiere dich über Umgebungen, die du verwenden kannst. 
 
 ✒️ Bearbeite die Aufgaben als Fließtext auf **maximal drei Seiten** (ohne Abbildungen) und Verwende Schrift und Schriftgröße äquivalent zu **Times New Roman 12pt**.\
 📑 Der Projektbericht soll der **äußeren Form** einer wissenschaftlichen Arbeit folgen (Deckblatt, Inhaltsverzeichnis, Abbildungsverzeichnis und Literaturverzeichnis).\
@@ -42,7 +42,7 @@ Im Git-Repository des Kurses findest Du den Ordner project mit vier Markdown-Dat
 
 
 ### a): Wahl und Beschreibung der RL Umgebung (5 Punkte)
-Suche Dir eine Umgebung für Deinen RL-Agenten aus. Dafür kannst Du auf die Beispiele in der MD-Datei zurückgreifen oder eigene Recherchen heranziehen. Beschreibe die gewählte Umgebung hinsichtlich der Aufgaben-/ bzw. Problemstellung und Eigenschaften. Verwende dabei die gelernten Fachbegriffe und Konzepte aus der Vorlesung. \
+Suche Dir eine Umgebung für Deinen RL-Agenten aus. Dafür kannst Du auf die Beispiele aus der Vorlesung zurückgreifen oder eigene Recherchen heranziehen. Beschreibe die gewählte Umgebung hinsichtlich der Aufgaben-/ bzw. Problemstellung und Eigenschaften. Verwende dabei die gelernten Fachbegriffe und Konzepte aus der Vorlesung. \
 💡 Führe **kurz** mit einer **nachvollziehbaren** und **logischen** Begründung für Deine Wahl des Anwendungsgebietes und der Umgebung ein. Gehe zum Beispiel auf die Relevanz des Themas (z.B. Autonomes Fahren im heutigen Kontext) , Usability der Umgebung (z.B. easy to use, schnell einzurichten,..) oder Deine persönliche Verbindung zur Thematik (z.B. Autonomes Fahren bei Automobilkonzernen, Du zockst gerne,...) ein. \
 📖 Beschreibe die Umgebung mit den gelernten **Fachbegriffen** und **beziehe Dich auf Konzepte** aus der Vorlesung.\
 ⚖️ Bei Gruppenarbeit fließt die **Komplexität** und **Originalität** der Umgebung bzw. Problemstellung mit in die Bewertung ein.
