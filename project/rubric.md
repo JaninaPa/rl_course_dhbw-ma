@@ -13,12 +13,22 @@ Du musst das Rad nicht neu erfinden - Im alltäglichen Arbeitsleben könntest Du
 
 ## Aufgabenspezifische Vorgaben und Bewertungsgrundlagen
 
-### Aufgabe 1️⃣: Zusammenfassung der Inhalte anhand Zeitstrahl (10 Punkte)
-Erstelle eine Zeitleiste aller Algorithmen, die Du in den Lektionen 7 und 8 kennengelernt hast, basierend auf dem Jahr der entsprechenden Veröffentlichung. Fasse jeweils Ziel, Funktionsweise und Anwendungsbereich der Methode in 3-4 Sätzen/ Stichpunkten zusammen.\
-✔️ Hierbei geht es um die **korrekte** Wiedergabe von Vorlesungsinhalten. Keine Quellenangabe nötig. \
-📖 Verwende die **Fachtermini**, die Du in der Vorlesung kennengelernt hast. \
-🎨 Achte auf eine **übersichtliche** und **ansprechende Darstellung**. Werde gerne etwas **kreativ**. \
-📄 Abgabeformat ist vorzugsweise eine .pdf-Datei, .docx oder .pptx ebenfalls möglich.  
+### Aufgabe 1️⃣: : Blogpost zur aktuellen KI-Entwicklung & ethischen Reflexion (10 Punkte)
+Beleuchtet eine aktuellen Entwicklung im Bereich AI, wahlweise aber nicht zwingend mit Bezug zu Reinforcement Learning, in Form eines Blogposts. Ziel ist es, nicht nur den technologischen Fortschritt zu verstehen, sondern auch dessen gesellschaftliche und ethische Implikationen kritisch zu reflektieren. Verfasst dazu einen Blogpost im Umfang von ca. 1 Din-A4-Seite (Times New Roman 12pt), in dem ihr eine aktuelle KI-Entwicklung (z. B. Dein neuer Studienfreund ChatGPT - Bildung im Zeitalter der Prompts 😉) vorstellt und unter ethischen Gesichtspunkten beleuchtet.
+
+🧩 Tipp - Orientiere Dich an folgenden Abschnitten als roten Faden:
+Einleitung: Thema, Entwickler, Anwendungskontext
+Chancen: Potenziale, Zielgruppen, Nutzen
+Herausforderungen & ethische Fragen: z. B. Fairness, Transparenz, Verantwortung, Missbrauchsrisiken
+Deine Einschätzung: Kritisch reflektierte persönliche Bewertung
+
+✔️ Aktualität & Relevanz: Ist die gewählte Entwicklung relevant, aktuell und gut gewählt?
+📖 Inhaltliche Tiefe & Fachbezug: Zeigt der Beitrag ein fundiertes technisches Verständnis und fachlichen Bezug?
+⚖️ Ethische Reflexion: Werden differenzierte ethische Perspektiven klar und kritisch dargestellt?
+🗣️ Eigene Positionierung: Gibt es eine nachvollziehbare und begründete persönliche Haltung?
+🎨 Kreativität & Lesbarkeit: Ist der Text originell, gut strukturiert und ansprechend formuliert?
+📄 Abgabeformat ist eine **.docx-Datei** oder **.pdf-Datei**.
+
 
 ### Aufgabe 2️⃣: Erarbeitung und Präsentation neuer Konzepte (15 Punkte)
 Suche Dir eines der Konzepte aus, die wir in der Vorlesung nicht behandelt haben und trage Dein Thema und Deinen Namen in der entsprechenden Excel-Tabelle in Moodle ein (First come, first serve). Falls Du eine andere Idee für ein Thema hast, umso besser! Kläre es kurz per Mail oder Discord mit mir ab.
