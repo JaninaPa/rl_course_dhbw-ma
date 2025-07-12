@@ -7,7 +7,7 @@
 💬 Achte auf sachliche, verständliche und fachlich angebrachte Sprache unter Verwendung korrekter Grammatik und Rechtschreibung. Entscheide Dich für Deutsch oder Englisch. \
 📚 Verwende korrekte Zitierweise zur deutlichen Kennzeichnung von Informationen, Text und Code von externen Quellen. \
 📁 Packe alle Dateien in ein .zip-Verzeichnis. \
-⏰ Der Upload ist bis **26.07.23 um 23.59 Uhr** auf Moodle möglich.
+⏰ Der Upload ist bis **31.07.25 um 23.59 Uhr** auf Moodle möglich.
 
 Du musst das Rad nicht neu erfinden - Im alltäglichen Arbeitsleben könntest Du auch alle zur Verfügung stehenden Mittel benutzen. Die Verwendung von bestehendem Code, LLM's und anderen im Internet zugänglichen Hilfsmittel ist erlaubt, muss aber wie oben beschrieben entsprechend gekennzeichnet werden. ✌️
 
